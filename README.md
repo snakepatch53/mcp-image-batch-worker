@@ -15,7 +15,7 @@ _opencode_:
             "LMSTUDIO_MAX_TOKENS": "300"
         },
         "timeout": 180000
-    },
+    }
 ```
 
 ## MCP Referidos:
